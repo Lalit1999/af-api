@@ -5,8 +5,8 @@ sg.setApiKey(process.env.API_KEY) ;
 const sendWelcomeMail = (name, email) => {
 	sg.send({
 		to: email,
-		from: 'noreply@psyment.com',
-		subject: 'Welcome to Psyment: Psychology & Mentoring !',
+		from: 'noreply@apnafurniture.web.app',
+		subject: 'Welcome to Apna Furniture: Best, Durable and Modern Furniture',
 		html: 
 `<!DOCTYPE html>
 <html>
@@ -69,7 +69,7 @@ const sendWelcomeMail = (name, email) => {
 <body style="background-color: #e9ecef;">
 
   <div class="preheader" style="display: none; max-width: 0; max-height: 0; overflow: hidden; font-size: 1px; line-height: 1px; color: #fff; opacity: 0;">
-	Hello ${name}! Thank You for choosing Psyment: Psychology & Mentoring
+	Hello ${name}! Thank You for choosing Apna Furniture: Best, Durable and Modern Furniture
   </div>
 
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -93,7 +93,7 @@ const sendWelcomeMail = (name, email) => {
         <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px;">
           <tr>
             <td align="left" bgcolor="#ffffff" style="padding: 36px 24px 0; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif; border-top: 3px solid #d4dadf;">
-              <h1 style="margin: 0; font-size: 32px; font-weight: 700; letter-spacing: -1px; line-height: 48px; color:black;">Welcome To Psyment, ${name}!</h1>
+              <h1 style="margin: 0; font-size: 32px; font-weight: 700; letter-spacing: -1px; line-height: 48px; color:black;">Welcome To Apna Furniture, ${name}!</h1>
             </td>
           </tr>
         </table>
