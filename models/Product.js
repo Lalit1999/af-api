@@ -27,6 +27,11 @@ const ProductSchema = new mongoose.Schema({
 	},
 	discount : Number,
 	images : [String],
+	stock : {
+		type: Number,
+		required: true,
+		default: 100
+	},
 	features : [String],
 	details : {},
 	tag : [String],

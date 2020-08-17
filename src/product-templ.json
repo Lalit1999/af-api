@@ -1,51 +1,21 @@
-{
-	"name" : "Apple Iphone X Pro MAX" ,
-	"title" : "Apple Iphone X Pro MAX 8 GB/256 GB/Blue/5G/Triple Camera" ,
-	"descr" : "The result of 10 years of pioneering mobile firsts, Apple Iphone X Pro MAX series introduce the next generation of mobile innovation. Completely redesigned to remove interruptions from your view. No notch, no distractions. Precise laser cutting, on-screen security, and a Dynamic AMOLED that's easy on the eyes make the Infinity-O Display the most innovative Galaxy screen yet. Use the Ultra Wide Camera to take stunning, cinematic photos with a 123 degree field of vision. Wireless Power Share gives you the ability to share your power with other devices and Fast Wireless Charging 2.0 gets your phone back to 100 percent, faster.",
-	"price" : 120000.00 ,
-	"discount" : 5000.00,
-	"images" : ["https://images-na.ssl-images-amazon.com/images/I/71b5muBOr4L._SX425_.jpg"],
-	"features" : ["Triple AI Camera","Good Sound Quality","Fast Performance","High-Resolution Display", "Airplane Mode", "Reading Mode", "Do-Not-Disturb Mode", "Fast-Charging"],
-	"details" : {"length": "6.2 inch", 
-				 "width": "3 inch",
-				 "height": "0.5 inch",
-				 "color" : "Blue",
-				 "body material" : "metallic",
-				 "weight" : "110g",
-				 "RAM" : "8 GB",
-				 "internal storage": "256 GB",
-				 "processor" : "i-processor",
-				 "battery" : "4200 mAh",
-				 "Camera 1": "30 MPxl",
-				 "Camera 2": "10 Mpxl"
-				},
-	"tag" : ["8 GB RAM","256 GB Internal","Triple Camera","Blue", "fast charging", "Notch Display"],
-	"category" : "SmartPhone",
-	"subcategory" : "Apple Smartphone",
-	"coupons" : [{"code": "STRING", "effect": "Get 50% Discount on First Usage"},
-				 {"code": "STRING", "effect": "Get 50% Discount on First Usage"},
-				 {"code": "STRING", "effect": "Get 50% Discount on First Usage"},
-				 {"code": "STRING", "effect": "Get 50% Discount on First Usage"}]
-}
-
-1
-{
+[{
 	"name" : "Dell Inspiron 3493" ,
 	"title" : "10th Gen i3-1005G1/4GB/1TB HDD/Win 10 + MS Office/Intel HD Graphics/Silver" ,
 	"descr" : "Dell Inspiron 3480 14 Inch HD Laptop (Pentium Gold 5405U,4GB,256 SSD,Intel HD Graphics,Win 10 + MS Office,Black)D560168WIN9BE. Dell Technologies is committed to transforming businesses, shaping the future of innovation and developing technologies to drive human progress. We are passionate about driving human progress through greater access to better technology, for people with big ideas around the world. Dell Technologies is instrumental in changing the digital landscape the world over, fueled by the desire to drive human progress through technology.",
 	"price" : 40000.00 ,
 	"discount" : 2500.00,
 	"images" : ["https://images-na.ssl-images-amazon.com/images/I/71h6PpGaz9L._AC_SL1500_.jpg"],
-	"features" : ["Windows 10 operating system","Windows 10","MS Office","Flexible to fit your needs",],
+	"features" : ["Windows 10 operating system","Windows 10","MS Office","Flexible to fit your needs"],
 	"details" : {"processor" : "1.2 GHz Intel i3-1005g1 10th Gen",
 				 "RAM" :		"4GB DDR4",
 				 "hard drive" :"1TB 5400rpm", 
                  "screen" : "14-Inch" , 
                  "Graphics" : "Intel HD Graphics NA GB", 
                  "operating system" : "Windows 10",
-                 "battery life" : "7 hours" , "laptop weight" :"1.7kg" 
-
+                 "battery life" : "7 hours" ,
+                 "laptop weight" :"1.7kg" 
 				},
+	"stock" : 200,
 	"tag" : ["4 GB RAM","1 TB HDD","i3","long battery life", "fast charging", "10th gen"],
 	"category" : "Laptop",
 	"subcategory" : "Dell Laptop",
@@ -53,10 +23,7 @@
 				 {"code": "STRING", "effect": "Get 50% Discount on First Usage"},
 				 {"code": "STRING", "effect": "Get 50% Discount on First Usage"},
 				 {"code": "STRING", "effect": "Get 50% Discount on First Usage"}]
-}
-
-
-2
+},
 {
 	"name" : "Dell Inspiron 6347" ,
 	"title" : "10th Gen i4-1005G1/8GB/2TB HDD/Win 10 + MS Office/Intel HD Graphics/Silver" ,
@@ -64,16 +31,17 @@
 	"price" : 60000.00 ,
 	"discount" : 4500.00,
 	"images" : ["https://images-na.ssl-images-amazon.com/images/I/71h6PpGaz9L._AC_SL1500_.jpg"],
-	"features" : ["Windows 10 operating system","Windows 10","MS Office","Flexible to fit your needs",],
+	"features" : ["Windows 10 operating system","Windows 10","MS Office","Flexible to fit your needs"],
 	"details" : {"processor" : "1.2 GHz Intel i3-1005g1 10th Gen",
 				 "RAM" :		"8GB DDR4",
 				 "hard drive" :"2TB 5400rpm", 
                  "screen" : "14-Inch" , 
                  "Graphics" : "Intel HD Graphics NA GB", 
                  "operating system" : "Windows 10",
-                 "battery life" : "7 hours" , "laptop weight" :"1.8kg" 
-
+                 "battery life" : "7 hours" , 
+                 "laptop weight" :"1.8kg" 
 				},
+	"stock" : 200,
 	"tag" : ["8 GB RAM","2 TB HDD","i4","long battery life", "fast charging", "10th gen"],
 	"category" : "Laptop",
 	"subcategory" : "Dell Laptop",
@@ -81,10 +49,7 @@
 				 {"code": "STRING", "effect": "Get 50% Discount on First Usage"},
 				 {"code": "STRING", "effect": "Get 50% Discount on First Usage"},
 				 {"code": "STRING", "effect": "Get 50% Discount on First Usage"}]
-}
-
-
-3
+},
 {
 	"name" : "HP 14q cs2003TU" ,
 	"title" : "Pentium Silver N5030/4GB/256GB SSD/Windows 10 Home/Integrated Graphics" ,
@@ -92,16 +57,17 @@
 	"price" : 27000.00 ,
 	"discount" : 2800.00,
 	"images" : ["https://images-na.ssl-images-amazon.com/images/I/71h6PpGaz9L._AC_SL1500_.jpg"],
-	"features" : ["Windows 10 operating system","Windows 10","MS Office","Flexible to fit your needs",],
+	"features" : ["Windows 10 operating system","Windows 10","MS Office","Flexible to fit your needs"],
 	"details" : {"processor" : "1.2 GHz Intel i3-1005g1 10th Gen",
 				 "RAM" :		"4GB DDR4",
 				 "SSD" :"256GB", 
                  "screen" : "14-Inch" , 
                  "Graphics" : "Intel HD Graphics NA GB", 
                  "operating system" : "Windows 10",
-                 "battery life" : "5 hours" , "laptop weight" :"1.8kg" 
-
+                 "battery life" : "5 hours" , 
+                 "laptop weight" :"1.8kg" 
 				},
+	"stock" : 200,
 	"tag" : ["4 GB RAM","2 TB HDD","i4","256 SSD", "fast charging", "10th gen"],
 	"category" : "Laptop",
 	"subcategory" : "HP Laptop",
@@ -109,10 +75,7 @@
 				 {"code": "STRING", "effect": "Get 50% Discount on First Usage"},
 				 {"code": "STRING", "effect": "Get 50% Discount on First Usage"},
 				 {"code": "STRING", "effect": "Get 50% Discount on First Usage"}]
-}
-
-
-4
+},
 {
 	"name" : "HP 14q cs2056TU" ,
 	"title" : "Pentium Silver N5030/8GB/256GB SSD/2TB/Windows 10 Home/Integrated Graphics" ,
@@ -120,45 +83,44 @@
 	"price" : 47000.00 ,
 	"discount" : 4800.00,
 	"images" : ["https://images-na.ssl-images-amazon.com/images/I/71h6PpGaz9L._AC_SL1500_.jpg"],
-	"features" : ["Windows 10 operating system","Windows 10","MS Office","Flexible to fit your needs",],
+	"features" : ["Windows 10 operating system","Windows 10","MS Office","Flexible to fit your needs"],
 	"details" : {"processor" : "1.2 GHz Intel i3-1005g1 10th Gen",
-				 "RAM" :		"8GB DDR4",
-				 "SSD" :"256GB", 
+				 "RAM" : "8GB DDR4",
+				 "SSD" : "256GB", 
 				 "hard drive" : "2 TB",
                  "screen" : "14-Inch" , 
                  "Graphics" : "Intel HD Graphics NA GB", 
                  "operating system" : "Windows 10",
-                 "battery life" : "5 hours" , "laptop weight" :"1.8kg" 
-
+                 "battery life" : "5 hours" , 
+                 "laptop weight" :"1.8kg" 
 				},
-	"tag" : ["4 GB RAM","2 TB HDD","i4","256 SSD" "2TB", "fast charging", "10th gen"],
+	"stock" : 200,
+	"tag" : ["4 GB RAM","2 TB HDD","i4","256 SSD","2TB", "fast charging", "10th gen"],
 	"category" : "Laptop",
 	"subcategory" : "HP Laptop",
 	"coupons" : [{"code": "STRING", "effect": "Get 50% Discount on First Usage"},
 				 {"code": "STRING", "effect": "Get 50% Discount on First Usage"},
 				 {"code": "STRING", "effect": "Get 50% Discount on First Usage"},
 				 {"code": "STRING", "effect": "Get 50% Discount on First Usage"}]
-}
-
-
-5
+},
 {
 	"name" : "Lenovo Ideapad Slim" ,
-	"title" : "3i Intel Core i3 10th Gen 14 inch HD Thin and Light Laptop (4GB/1TB HDD/Windows 10/		 Platinum Grey/1.6Kg)" ,
+	"title" : "3i Intel Core i3 10th Gen 14 inch HD Thin and Light Laptop (4GB/1TB HDD/Windows 10/Platinum Grey/1.6Kg)" ,
 	"descr" : "Engineered for long-lasting performance, the Lenovo IdeaPad Slim 3 delivers powerful performance in an entry-level laptop—it’s perfect for your everyday tasks with features that you can depend on.",
 	"price" : 33000.00 ,
 	"discount" : 7500.00,
 	"images" : ["https://images-na.ssl-images-amazon.com/images/I/71h6PpGaz9L._AC_SL1500_.jpg"],
-	"features" : ["Windows 10 operating system","Windows 10","MS Office","Flexible to fit your needs",],
+	"features" : ["Windows 10 operating system","Windows 10","MS Office","Flexible to fit your needs"],
 	"details" : {"processor" : "1.2 GHz Intel i3-1005g1 10th Gen",
 				 "RAM" :		"4GB DDR4",
 				 "hard drive" : "1 TB",
                  "screen" : "14-Inch" , 
                  "Graphics" : "Intel HD Graphics NA GB", 
                  "operating system" : "Windows 10",
-                 "battery life" : "5 hours" , "laptop weight" :"1.6kg" 
-
+                 "battery life" : "5 hours" , 
+                 "laptop weight" :"1.6kg" 
 				},
+	"stock" : 200,
 	"tag" : ["4 GB RAM","1 TB HDD","i3","2TB", "fast charging", "10th gen"],
 	"category" : "Laptop",
 	"subcategory" : "Lenovo Laptop",
@@ -166,10 +128,7 @@
 				 {"code": "STRING", "effect": "Get 50% Discount on First Usage"},
 				 {"code": "STRING", "effect": "Get 50% Discount on First Usage"},
 				 {"code": "STRING", "effect": "Get 50% Discount on First Usage"}]
-}
-
-
-6
+},
 {
 	"name" : "Lenovo Lenovo V14" ,
 	"title" : "Intel Core i3 8th Gen 14-inch HD Thin and Light Laptop (4GB RAM/ 1TB HDD/ DOS/ Grey/ 1.6 kg)" ,
@@ -177,16 +136,17 @@
 	"price" : 32000.00 ,
 	"discount" : 4000.00,
 	"images" : ["https://images-na.ssl-images-amazon.com/images/I/71h6PpGaz9L._AC_SL1500_.jpg"],
-	"features" : ["Windows 10 operating system","Windows 10","MS Office","Flexible to fit your needs",],
+	"features" : ["Windows 10 operating system","Windows 10","MS Office","Flexible to fit your needs"],
 	"details" : {"processor" : "1.2 GHz Intel i3-1005g1 10th Gen",
 				 "RAM" :		"4GB DDR4",
 				 "hard drive" : "1 TB",
                  "screen" : "14-Inch" , 
                  "Graphics" : "Intel HD Graphics NA GB", 
                  "operating system" : "DOS",
-                 "battery life" : "7 hours" , "laptop weight" :"1.6kg" 
-
+                 "battery life" : "7 hours" , 
+                 "laptop weight" :"1.6kg" 
 				},
+	"stock" : 200,
 	"tag" : ["4 GB RAM","1 TB HDD","i3","2TB", "fast charging", "10th gen"],
 	"category" : "Laptop",
 	"subcategory" : "Lenovo Laptop",
@@ -194,10 +154,7 @@
 				 {"code": "STRING", "effect": "Get 50% Discount on First Usage"},
 				 {"code": "STRING", "effect": "Get 50% Discount on First Usage"},
 				 {"code": "STRING", "effect": "Get 50% Discount on First Usage"}]
-}
-
-
-7
+},
 {
 	"name" : "Acer Aspire 3 A315-23" ,
 	"title" : "15.6-inch Laptop (AMD Ryzen 3-3250U dual-core/4GB/1TB HDD/Window 10, Home, 64Bit/AMD RadeonTM Graphics), Silver" ,
@@ -205,16 +162,17 @@
 	"price" : 39000.00 ,
 	"discount" : 4000.00,
 	"images" : ["https://images-na.ssl-images-amazon.com/images/I/71h6PpGaz9L._AC_SL1500_.jpg"],
-	"features" : ["Windows 10 operating system","Windows 10","MS Office","Flexible to fit your needs",],
+	"features" : ["Windows 10 operating system","Windows 10","MS Office","Flexible to fit your needs"],
 	"details" : {"processor" : "1.4 GHz Intel i3-1005g1 10th Gen",
 				 "RAM" :		"4GB DDR4",
 				 "hard drive" : "1 TB",
                  "screen" : "15.6-Inch" , 
                  "Graphics" : "Intel HD Graphics NA GB", 
                  "operating system" : "Windows 10",
-                 "battery life" : "7 hours" , "laptop weight" :"1.6kg" 
-
+                 "battery life" : "7 hours" , 
+                 "laptop weight" :"1.6kg" 
 				},
+	"stock" : 200,
 	"tag" : ["4 GB RAM","1 TB HDD","i3","2TB", "fast charging", "10th gen"],
 	"category" : "Laptop",
 	"subcategory" : "Acer Laptop",
@@ -222,10 +180,7 @@
 				 {"code": "STRING", "effect": "Get 50% Discount on First Usage"},
 				 {"code": "STRING", "effect": "Get 50% Discount on First Usage"},
 				 {"code": "STRING", "effect": "Get 50% Discount on First Usage"}]
-}
-
-
-8
+},
 {
 	"name" : "Acer Aspire 3 A316-25" ,
 	"title" : "15-inch Laptop (AMD Ryzen 3-3250U dual-core/4GB/2TB HDD/Window 10, Home, 64Bit/AMD RadeonTM Graphics), Silver" ,
@@ -233,16 +188,17 @@
 	"price" : 41000.00 ,
 	"discount" : 4000.00,
 	"images" : ["https://images-na.ssl-images-amazon.com/images/I/71h6PpGaz9L._AC_SL1500_.jpg"],
-	"features" : ["Windows 10 operating system","Windows 10","MS Office","Flexible to fit your needs",],
+	"features" : ["Windows 10 operating system","Windows 10","MS Office","Flexible to fit your needs"],
 	"details" : {"processor" : "1.4 GHz Intel i3-1005g1 10th Gen",
 				 "RAM" :		"4GB DDR4",
 				 "hard drive" : "2 TB",
                  "screen" : "15-Inch" , 
                  "Graphics" : "Intel HD Graphics NA GB", 
                  "operating system" : "Windows 10",
-                 "battery life" : "7 hours" , "laptop weight" :"1.6kg" 
-
+                 "battery life" : "7 hours" , 
+                 "laptop weight" :"1.6kg" 
 				},
+	"stock" : 200,
 	"tag" : ["4 GB RAM","2 TB HDD","i3","2TB", "fast charging", "10th gen"],
 	"category" : "Laptop",
 	"subcategory" : "Acer Laptop",
@@ -251,5 +207,5 @@
 				 {"code": "STRING", "effect": "Get 50% Discount on First Usage"},
 				 {"code": "STRING", "effect": "Get 50% Discount on First Usage"}]
 }
-
+]
 
